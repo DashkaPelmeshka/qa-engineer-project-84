@@ -1,2 +1,5 @@
-### Hexlet tests and linter status:
-[![Actions Status](https://github.com/DashkaPelmeshka/qa-engineer-project-84/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/DashkaPelmeshka/qa-engineer-project-84/actions)
+### Проект 1: тестирование интернет-магазина
+
+Учебный проект курса "Инженер по ручному тестированию" школы Хекслет
+Дарья Орлова
+октябрь-ноябрь 2026
