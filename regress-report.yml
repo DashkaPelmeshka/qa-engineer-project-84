@@ -13,7 +13,7 @@ test-cases:
     status: pass
     
   - summary: |
-      Успешная фильтрация товаров по бренду
+      Успешная фильтрация товаров по производителю
     status: pass
     
   - summary: |
